@@ -91,3 +91,10 @@ a.active,a:hover{
         left: 0;
     }
 }
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
+}
+.img-eye{
+    width: 300px;
+}
